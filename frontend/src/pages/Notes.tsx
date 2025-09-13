@@ -50,7 +50,7 @@ export default function Notes() {
         setTimeout(handleLogout, 2000);
       }
     } else {
-      navigate("/login");
+      navigate("/");
     }
   }, [token, navigate]);
 
@@ -162,7 +162,7 @@ export default function Notes() {
     localStorage.removeItem("token");
     localStorage.removeItem("role");
     localStorage.removeItem("tenantId");
-    navigate("/login");
+    navigate("/");
   };
 
   // Fetch notes on initial component mount
