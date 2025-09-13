@@ -4,6 +4,9 @@ A full-stack multi-tenant **Notes Application** built with **TypeScript, Express
 Supports **multi-tenancy, role-based access, subscription limits, and deployment on Vercel**.
 
 ---
+## 🚀 Live URLs
+- **Backend API** → [https://yard-stick-seven.vercel.app](https://yard-stick-seven.vercel.app)  
+- **Frontend** → [https://yard-stick-wx19.vercel.app](https://yard-stick-wx19.vercel.app) 
 
 ## 🚀 Features
 
